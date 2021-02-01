@@ -6,4 +6,4 @@
 
 - Je travail principalement avec du Lua & J'essai d'apprendre de nouveaux language par la suite.
 
-- https//:discord.gg/dakom
+- discord.gg/dakom
