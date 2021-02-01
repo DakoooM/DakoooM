@@ -4,6 +4,6 @@
 
 - J'aime apprendre de nouvelle choses tout les jours et surtout dans le developpement.
 
-- Je travail principalement avec du Lua & J'essai d'apprendre de nouveaux language de programation.
+- Je travail principalement avec du Lua & J'essai d'apprendre de nouveaux language.
 
 - discord.gg/dakom
