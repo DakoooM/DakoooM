@@ -6,13 +6,7 @@
 
 - discord.gg/dakom 🔊
 
-<details> 
-  <summary>Statistique Personnel</summary>
-
-  <br />
   
   [![DakoooM github stats](https://github-readme-stats.vercel.app/api?username=DakoooM)](https://github.com/DakoooM?tab=repositories)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DakoooM)](https://github.com/DakoooM?tab=repositories)
   
-</details>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DakoooM)](https://github.com/DakoooM?tab=repositories)
