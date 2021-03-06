@@ -4,7 +4,7 @@
 
 - Je travail principalement avec du Lua & J'essai d'apprendre d'avantage de languages. 💻
 
-- discord.gg/dakom 🔊
+- discord.gg/ss4H3VKAZ4 🔊
 
   
   [![DakoooM github stats](https://github-readme-stats.vercel.app/api?username=DakoooM)](https://github.com/DakoooM?tab=repositories)
