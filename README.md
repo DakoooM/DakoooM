@@ -6,7 +6,7 @@
 
 - Support/Release: discord.gg/ss4H3VKAZ4 🔊
 
-- I'm French 🇲🇫
+- I'm 🇫🇷🇪🇳🇨🇭
   
   [![DakoooM github stats](https://github-readme-stats.vercel.app/api?username=DakoooM&theme=dark)](https://github.com/DakoooM?tab=repositories)
   
