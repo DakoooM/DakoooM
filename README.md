@@ -1,11 +1,12 @@
 ### Hello 👀
 
-- Giovani, 18 ans. 👽
+- Giovani, 18 Years Old 👽
 
-- Je travail principalement avec du Lua & J'essai d'apprendre d'avantage de languages. 💻
+- I work mainly with Lua & I try to learn more languages. 💻
 
-- Entraide/Release: discord.gg/ss4H3VKAZ4 🔊
+- Support/Release: discord.gg/ss4H3VKAZ4 🔊
 
+- I'm French 🇲🇫
   
   [![DakoooM github stats](https://github-readme-stats.vercel.app/api?username=DakoooM&theme=dark)](https://github.com/DakoooM?tab=repositories)
   
