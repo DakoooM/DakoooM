@@ -6,7 +6,7 @@
 
 - Support/Release: discord.gg/ss4H3VKAZ4 🔊
 
-I'm 🇫🇷🇪🇳🇨🇭 & I have a discord for development help, examples of scripts ... are available
+- I'm 🇫🇷🇪🇳🇨🇭 & I have a discord for development help, examples of scripts ... are available
 
 [Discord Support/Release](https://discord.gg/EBfXQ94ewu)
 
