@@ -21,7 +21,10 @@ ____
 <a href=https://discord.gg/Wgae3Kwfys target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png alt="languages LUA" width="26" /></a>
 </p>
   
+<br>
 <details>
 <summary>Statistique</summary>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DakoooM&theme=dark)](https://github.com/DakoooM?tab=repositories)
+  
 </details>
