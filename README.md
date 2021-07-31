@@ -23,7 +23,7 @@
 ## Unwind me
 
 <details>
-<summary>Statistics</summary>
+<summary style = "user-select:none;">Statistics</summary>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DakoooM&theme=dark)](https://github.com/DakoooM?tab=repositories)
   
