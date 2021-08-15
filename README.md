@@ -8,10 +8,9 @@
 ## My Social Networks
 
 <p align="center">
-<a href="https://discord.gg/EBfXQ94ewu" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg alt="Link Discord To DakoM" height="30" width="30"/></a>
-<a href="https://www.youtube.com/c/DakoM/videos" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" alt="Link YouTube To DakoM" height="30" width="30"/></a>
-<a href="https://www.twitch.tv/dakooooom" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg alt="Link Twitch To DakoM" height="30" width="30"/></a>
-<a href="https://twitter.com/DakoooM" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg alt="Link Twitter To Tweeter" height="30" width="30"/></a>
+<a href="https://discord.gg/EBfXQ94ewu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" alt="Link Discord To DakoM" height="27" width="27"/></a>
+<a href="https://www.youtube.com/c/DakoM/videos" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" alt="Link YouTube To DakoM" height="20" width="30"/></a>
+<a href="https://www.twitch.tv/dakooooom" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitch-tv-logo-51C922E0F0-seeklogo.com.png" alt="Link Twitch To DakoM" height="23" width="23"/></a>
 </p>
   
 ## Used Languages
