@@ -17,7 +17,7 @@
 ## Used Languages
 
 <p align="center">
-<a href="https://discord.gg/EBfXQ94ewu" target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png alt="This is LUA" width="36"/></a>
+<a href="https://discord.gg/EBfXQ94ewu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="This is LUA" width="36"/></a>
 </p>
 
 ## Unwind me
