@@ -1,4 +1,4 @@
-[![Twitter](https://img.shields.io/twitter/follow/NSpeedcubing?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/DakoooM)
+[![Twitter](https://img.shields.io/twitter/follow/DakoooM?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/DakoooM)
 
 - Giovani, 18 Years Old 👽
 - I work mainly with Lua & I try to learn more languages. 💻
