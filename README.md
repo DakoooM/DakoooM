@@ -20,11 +20,18 @@
 </p>
 
                                              console.print('✎ 2. - Personnal Statistics')
+                                             
+<p align="center">
+  <a href="https://github.com/DakoooM?tab=repositories">
+<img  src="https://github-readme-stats.vercel.app/api?username=DakoooM&hide=issues&show_icons=true&theme=vue-dark" data-canonical-src="https://github-readme-stats.vercel.app/api?username=DakoooM&hide=issues&show_icons=true&theme=vue-dark">
+    </a>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DakoooM&hide=issues&show_icons=true&theme=vue-dark)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DakoooM&hide=issues&show_icons=true&theme=vue-dark) -->
 
-<!--                                                        ✎ 4. - Popular Scripting ✎ -->
-
-<!-- <a href="https://github.com/DakoooM/AlphaV">
+                                             console.print('✎ 3. - Popular Scripting')
+<p align="center">
+<a href="https://github.com/DakoooM/AlphaV">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DakoooM&repo=AlphaV&theme=vue-dark"/>
-</a> -->
+</a>
+</p>
