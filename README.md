@@ -1,5 +1,5 @@
 <p align="center">
-➨ My name is Giovani, I am 18 years old
+➨ My name is Giovani, I am 19 years old
 <br>
 ➨ I work mainly with Lua & I try to learn more languages 💻
 </p>
