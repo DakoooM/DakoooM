@@ -1,10 +1,11 @@
 # Bienvenue sur mon GitHub
 - Je m'appel Giovani, j'ai 19 ans.
-- Ici Je partage des codes *__Gratuitement__* (la pluspart sont crée pour **GTARP**).
+- Je partage des codes *__Gratuitement__* (80% des création sont pour **GTARP**).
 
 ## Projets
-- Je souhaite devenir développeur freelance une fois avoir fait une formation et/ou un test en entreprise. 
-- Crée des projets personnels ayant une grande visibilité au sein du public.
+- Je souhaite devenir développeur web freelance.
+- Apprendre le maximum de choses sur plusieurs languages de programmation
+- Pouvoir vivre de ma passion
 
 ## Mes Réseaux sociaux
 
@@ -14,3 +15,5 @@
 <a href="https://www.twitch.tv/dakaum" target="_blank"><img align="center" src="https://seeklogo.com/images/T/twitch-tv-logo-51C922E0F0-seeklogo.com.png" alt="Link Twitch To DakoM" height="40" width="40"/></a>   ឵ ឵   ឵ ឵   ឵ ឵     ឵ ឵   ឵ ឵   ឵ ឵  
 <a href="https://adns-fivem.fr" target="_blank"><img align="center" src="https://dunb17ur4ymx4.cloudfront.net/webstore/logos/48593a26410950aeb6e75402e283a645e75cb623.png" alt="Link Twitch To DakoM" height="50" width="50"/></a>
 </p>
+
+##
