@@ -3,9 +3,9 @@
 - Je partage des codes *__Gratuitement__* (80% des création sont pour **GTARP**).
 
 ## Projets
-- Je souhaite devenir développeur web freelance.
-- Apprendre le maximum de choses sur plusieurs languages de programmation
-- Pouvoir vivre de ma passion
+- Je souhaite devenir développeur web fullstack freelance.
+- Apprendre le maximum de choses sur plusieurs languages de programmation (front/back end)
+- Pouvoir vivre de ma passion.
 
 ## Mes Réseaux sociaux
 
