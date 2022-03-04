@@ -23,7 +23,7 @@
 
 <details>
  <summary align ="center"><b>Most Used Languages</b></summary>
-    <p align ="center"><a href = "https://github.com/DakoooM?tab=repositories" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dakooom&show_icons=true&theme=dark&locale=fr&layout=compact" alt="dakooom"/>
+    <p align ="center"><a href = "https://github.com/DakoooM?tab=repositories" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dakooom&show_icons=true&theme=dark&locale=en&layout=compact" alt="dakooom"/>
     </a></p>
   </summary>
 </details>
