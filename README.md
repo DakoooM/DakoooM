@@ -2,7 +2,7 @@
 - My name is Giovani, I am 19 years old.
 - I share codes *__FREELY__* (80% of the creation were made for **GTARP** or **FiveM**).
 
-<h1 align="center">Current project(s)</h1>
+<h2 align="center">Current project(s)</h2>
 <p align="center">
   I manage this online store with <a href="https://github.com/iMax-git"><strong>iMax</strong></a> recognized by the developers of the FiveM platform
   <br>
@@ -11,13 +11,12 @@
   <strong>#ADN'S &#8594;</strong><img align="center" src="https://dunb17ur4ymx4.cloudfront.net/webstore/logos/48593a26410950aeb6e75402e283a645e75cb623.png" alt="Link Twitch To DakoM" height="60"/></a>
 </p>
 
-<h1 align="center">My Social Networks</h1>
+<h2 align="center">My Social Networks</h2>
 <p align="center">
-<a href="https://discord.gg/EBfXQ94ewu" target="_blank" ><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" alt="Link Discord To DakoM" height="45"/></a>   ឵ ឵   ឵ ឵   ឵ ឵     ឵ ឵   ឵ ឵ 
-  ឵ ឵  
-<a href="https://www.youtube.com/c/DakoM/videos" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" alt="Link YouTube To DakoM" height="40"/></a>   ឵
-  ឵   ឵ ឵   ឵ ឵     ឵ ឵   ឵ ឵   ឵ ឵  
-<a href="https://www.twitch.tv/dakaum" target="_blank"><img align="center" src="https://seeklogo.com/images/T/twitch-tv-logo-51C922E0F0-seeklogo.com.png" alt="Link Twitch To DakoM" height="40"/></a>   ឵ ឵   ឵ ឵   ឵ ឵     ឵ ឵   ឵ ឵   ឵ ឵  
+<a href="https://twitter.com/_dakom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_dakom" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dako" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dako" height="30" width="40" /></a>
+<a href="https://discord.gg/EBfXQ94ewu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EBfXQ94ewu" height="30" width="40" /></a>
 </p>
 
-##
+<h2 align = "center">Languages & Tools</h2>
+<p align="center"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><a href="https://www.lua.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" alt="php" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
