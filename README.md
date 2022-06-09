@@ -13,8 +13,9 @@
 
 <h2 align="center">My Social Networks</h2>
 <p align="center">
-<a href="https://twitter.com/_dakom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_dakom" height="30" width="40" /></a>
+<a href="https://twitter.com/_DakoM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_dakom" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/DakoM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dako" height="30" width="40" /></a>
+<a href="https://www.twitch.tv/dakaum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="Twitter dakaum" height="30" width="40"/></a>
 <a href="https://discord.gg/EBfXQ94ewu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EBfXQ94ewu" height="30" width="40" /></a>
 </p>
 
