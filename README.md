@@ -2,6 +2,9 @@
 - My name is Giovani, I am 19 years old.
 - I share codes *__FREELY__* (90% of the creation were made for **GTARP** or **FiveM**).
 
+### Portfolio
+[Redirection Link](https://adns-tech.fr/portfolio/#home)
+
 <h2 align="center">Current project(s)</h2>
 <p align="center">
   I manage this online store with <a href="https://github.com/iMax-git"><strong>iMax</strong></a> recognized by the developers of the FiveM platform
