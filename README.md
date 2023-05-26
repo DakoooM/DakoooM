@@ -7,8 +7,6 @@
 
 <h2 align="center">Current project(s)</h2>
 <p align="center">
-  I manage this online store with <a href="https://github.com/iMax-git"><strong>iMax</strong></a> recognized by the developers of the FiveM platform
-  <br>
   Seller of <a href="https://adns-tech.fr/adns/scripts/"><strong>Scripts</strong></a> and <a href="https://adns-tech.fr/adns/discord/"><strong>Discord Bot</strong></a> and <a href="https://adns-tech.fr/adns/website/"><strong>Website</strong></a> on FiveM<br>
   <a href="https://adns-tech.fr" target="_blank">
   <strong>#ADN'S &#8594;</strong><img align="center" src="https://dunb17ur4ymx4.cloudfront.net/webstore/logos/48593a26410950aeb6e75402e283a645e75cb623.png" alt="Link Twitch To DakoM" height="60"/></a>
