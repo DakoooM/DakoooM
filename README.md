@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dakooom&label=Profile%20views&color=0e75b6&style=flat" alt="dakooom" /> </p>
 
-- 🔭 I’m currently working on [portfolio](https://cassinisgiovani.fr)
+- 🔭 I’m currently working on [netios.com](https://neotios.com)
 
 - 🌱 I’m currently learning **NextJS**
 
